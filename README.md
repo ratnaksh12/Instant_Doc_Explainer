@@ -1,4 +1,5 @@
 Instant Doc Explainer
+
 An AI-powered conversational application that allows users to upload PDF, DOCX, and TXT files and ask questions about their content using a Retrieval-Augmented Generation (RAG) system.
 
 ✨ Features
